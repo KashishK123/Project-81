@@ -1,0 +1,13 @@
+.body_bg{
+background-image: url("bg1.jpg");
+background-position: center;
+background-size: cover;
+}
+h1{
+    color:firebrick;
+    font-size: 40px;
+}
+#MyCanvas{
+    background-color: floralwhite;
+    border-style: ridge;
+}
